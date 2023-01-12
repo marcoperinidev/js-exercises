@@ -1,7 +1,7 @@
 # js-exercises
 a few js exercises to review and practice 
 
-##FIRST EXERCISE
+## FIRST EXERCISE
 **-I am not a robot -** Exercise
 
 
