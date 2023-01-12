@@ -2,7 +2,7 @@
 a few js exercises to review and practice 
 
 FIRST EXERCISE
-<underline>-I am not a robot - Exercise<underline>
+<underline>-I am not a robot - Exercise</underline>
 
 Generating random color using hexadecimal, checkbox and submit btn disabled until the corrisponding box is not selected; once the right box is selected and submitted a success page pops up
 
